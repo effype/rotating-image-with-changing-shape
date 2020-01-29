@@ -13,6 +13,7 @@ You can rotate a ellipse to specyfic angle
 <code>
 _angle = 270;
 </code>
+
 Results for rotation and changing shape of ellipse 
 
 <a href="https://i.gyazo.com/d15bfa3a84d98716f52338430bf0a39b.mp4"> Animation </a>
