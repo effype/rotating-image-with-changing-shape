@@ -4,6 +4,7 @@ I used timer to rotate image.
 
 <code>
  _angle = _sw.Elapsed.TotalSeconds * 40;
+ 
   var newBitmap = RotateImage(_originalBitmap, (float)_angle);
 </code>
 
