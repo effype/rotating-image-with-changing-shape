@@ -1,4 +1,4 @@
-# rotating-image-with-change-size
+# Rotating image with changing shape in GDI
 The ellipse changes its shape when it rotate. 
 I used timer to rotate image.
 
