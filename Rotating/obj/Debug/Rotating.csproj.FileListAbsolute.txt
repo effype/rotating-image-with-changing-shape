@@ -1,0 +1,9 @@
+C:\Users\Jola\source\repos\Rotating\Rotating\bin\Debug\Rotating.exe.config
+C:\Users\Jola\source\repos\Rotating\Rotating\bin\Debug\Rotating.exe
+C:\Users\Jola\source\repos\Rotating\Rotating\bin\Debug\Rotating.pdb
+C:\Users\Jola\source\repos\Rotating\Rotating\obj\Debug\Rotating.csprojAssemblyReference.cache
+C:\Users\Jola\source\repos\Rotating\Rotating\obj\Debug\Rotating.Form1.resources
+C:\Users\Jola\source\repos\Rotating\Rotating\obj\Debug\Rotating.Properties.Resources.resources
+C:\Users\Jola\source\repos\Rotating\Rotating\obj\Debug\Rotating.csproj.GenerateResource.cache
+C:\Users\Jola\source\repos\Rotating\Rotating\obj\Debug\Rotating.exe
+C:\Users\Jola\source\repos\Rotating\Rotating\obj\Debug\Rotating.pdb
